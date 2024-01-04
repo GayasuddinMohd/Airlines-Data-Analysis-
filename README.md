@@ -13,4 +13,5 @@ Our company operates a diverse fleet of aircraft ranging from small business jet
 1. Increase Occupancy Rates: By raising occupancy rates, we can enhance the average profit per seat and alleviate the impact of the challenges we're facing.
 2. Improve Price Strategy: We need to formulate a pricing strategy that considers the evolving market conditions and customer preferences, aiming to attract and retain customers.
 3. Enhance Customer Experience: Our focus should be on delivering a seamless and convenient experience for our customers, spanning from booking to arrival. This approach will differentiate us in a highly competitive industry and foster customer loyalty.
-   
+
+The end goal of this task would be to identify opportunities to increase the occupancy rate on low-performing flights, which can ultimately lead to increased profitability for the airline.
