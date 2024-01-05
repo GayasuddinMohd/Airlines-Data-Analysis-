@@ -16,7 +16,7 @@ Our company operates a diverse fleet of aircraft ranging from small business jet
 The end goal of this task would be to identify opportunities to increase the occupancy rate on low-performing flights, which can ultimately lead to increased profitability for the airline.
 
 ## Basic Analysis
-The basic analysis of data provides insights into the number of planes with more than 100 seats, how the number of tickets booked, and the total amount earned changed over time, as well as the average fare for each aircraft with different conditions. These findings will be helpful in developing strategies to optimize occupancy rates and pricing for each aircraft. Table 1 shows the aircraft with more than 100 seats and the actual count of seats.
+The basic analysis of data provides insights into the number of planes with more than 100 seats, how the number of tickets booked, and the total amount earned changed over time, as well as the average fare for each aircraft with different conditions. These findings will be helpful in developing strategies to optimize occupancy rates and pricing for each aircraft. **Table 1** shows the aircraft with more than 100 seats and the actual count of seats.
 
 | Aircraft code | Number of Seats |
 |---------------|-----------|
@@ -26,9 +26,7 @@ The basic analysis of data provides insights into the number of planes with more
 | 733           | 130       |
 | 763           | 222       |
 | 773           | 402       |
-
-
-
+                                                                                             **Table 1**
 
 
 
