@@ -37,4 +37,5 @@ In order to gain a deeper understanding of the trend in ticket bookings and reve
                                                                                         
 
 
+![Your Chart Title](https://i.ibb.co/whN1cvF/Image-1.png)
 
