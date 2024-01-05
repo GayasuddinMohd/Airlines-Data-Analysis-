@@ -29,7 +29,10 @@ The basic analysis of data provides insights into the number of planes with more
 | 763           | 222       |
 | 773           | 402       |
 
+**Table 1: Aircraft and Seats**
+
 </div>
+
 
                                                                                             
 
