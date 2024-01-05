@@ -40,6 +40,7 @@ In order to gain a deeper understanding of the trend in ticket bookings and reve
 ![Image](https://i.ibb.co/whN1cvF/Image-1.png)
 
 **Figure 1**
+
 </div>
 
 <div align="center">
@@ -50,6 +51,13 @@ In order to gain a deeper understanding of the trend in ticket bookings and reve
 </div>
 
 We were able to generate a bar graph to graphically compare the data after completing computations for the average cost associated with different fare conditions for each aircraft. Figure 3 displays data for three types of fares: business, economy, and comfort. It's worth mentioning that the comfort class is available on only one aircraft, the 773. Conversely, the CN1 and CR2 planes provide only the economy class. When comparing different pricing circumstances within each aircraft, the charges for the business class are consistently greater than those for the economy class. This trend may be observed across all planes, irrespective of fare conditions.
+
+<div align="center">
+
+![Image](https://i.ibb.co/Km6qnB3/Image-4.png)
+
+**Figure 3**
+</div>
 
 
 
