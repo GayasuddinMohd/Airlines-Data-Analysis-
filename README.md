@@ -33,7 +33,7 @@ The basic analysis of data provides insights into the number of planes with more
 
 </div>
 
-In order to gain a deeper understanding of the trend of tickets bookings and revenue earned through those bookings, we have utilized a line chart visualization. Upon analysis of the chart, we observe that the number of the tickets booked exibits a gradual increase from june 22nd to july 7th, followed by a relative stable pattern from july 8th until August, with a noticable peak in ticket bookings where the highest number of tickets were booked on a single day. It is important to note that the 
+In order to gain a deeper understanding of the trend of tickets bookings and revenue earned through those bookings, we have utilized a line chart visualization. Upon analysis of the chart, we observe that the number of the tickets booked exibits a gradual increase from june 22nd to july 7th, followed by a relative stable pattern from july 8th until August, with a noticable peak in ticket bookings where the highest number of tickets were booked on a single day. It is important to note that the revenue earned by the company from  these bookings is closely tied to the number of tickets booked. Therefore, we can see a similar trend in the total revenue earned by the company throughout the analyzed time period.
                                                                                         
 
 
