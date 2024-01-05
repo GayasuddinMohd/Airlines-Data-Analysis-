@@ -42,6 +42,16 @@ In order to gain a deeper understanding of the trend in ticket bookings and reve
 **Figure 1**
 </div>
 
+<div align="center">
+
+![Image](https://i.ibb.co/Jxy2rJ7/Image-3.png)
+
+**Figure 2**
+</div>
+
+
+
+
 
 
 
