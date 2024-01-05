@@ -15,3 +15,15 @@ Our company operates a diverse fleet of aircraft ranging from small business jet
 3. Enhance Customer Experience: Our focus should be on delivering a seamless and convenient experience for our customers, spanning from booking to arrival. This approach will differentiate us in a highly competitive industry and foster customer loyalty.
 
 The end goal of this task would be to identify opportunities to increase the occupancy rate on low-performing flights, which can ultimately lead to increased profitability for the airline.
+
+## Basic Analysis
+
+The basic analysis of data provides insights into the number of planes with more than 100 seats, how the number of tickets booked and total amount earned changed over time, and the average fare for each aircrafts with different conditions. These finding will be helpfull in developing strategies to occupancy rates and optimize pricing for each aircraft. Table 1 shows the aircraft with more than 100 seats and the actual count of the seats.  
+
+
+
+
+
+
+
+
