@@ -49,7 +49,11 @@ In order to gain a deeper understanding of the trend in ticket bookings and reve
 **Figure 2**
 </div>
 
-We are able to generate a bar graph to graphically compare the data after we complete the computations for the average cost associated with different fare conditions for each aircraft. The graph figure 3 shows data for three types of fares: business, economy, and comfort. It is worth mentioning that the comfort class is available on only one aircraft, the 773. The CN1 and CR2 planes, on the other hand, only provides the economy class. When different pricing circumstances within each aircrafts are compared, the charges for busniess class are consistently greater than those for economy class. This trends may be seen across all planes, regardless of fare conditions. 
+We were able to generate a bar graph to graphically compare the data after completing computations for the average cost associated with different fare conditions for each aircraft. Figure 3 displays data for three types of fares: business, economy, and comfort. It's worth mentioning that the comfort class is available on only one aircraft, the 773. Conversely, the CN1 and CR2 planes provide only the economy class.
+
+When comparing different pricing circumstances within each aircraft, the charges for the business class are consistently greater than those for the economy class. This trend may be observed across all planes, irrespective of fare conditions.
+
+
 
 
 
