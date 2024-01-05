@@ -18,7 +18,7 @@ The end goal of this task would be to identify opportunities to increase the occ
 ## Basic Analysis
 The basic analysis of data provides insights into the number of planes with more than 100 seats, how the number of tickets booked, and the total amount earned changed over time, as well as the average fare for each aircraft with different conditions. These findings will be helpful in developing strategies to optimize occupancy rates and pricing for each aircraft. Table 1 shows the aircraft with more than 100 seats and the actual count of seats.
 
-| aircraft_code | num_seats |
+| Aircraft code | Number of Seats |
 |---------------|-----------|
 | 319           | 116       |
 | 320           | 140       |
