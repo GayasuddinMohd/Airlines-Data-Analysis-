@@ -1,7 +1,6 @@
 # Airlines Data Analysis Project
 
 ## Business Problem
-
 Our company operates a diverse fleet of aircraft ranging from small business jets to medium-sized machines. We have been providing high-quality air transportation services to our clients for several years, and our primary focus is to ensure a safe, comfortable, and convenient journey for our passengers. However, we are currently facing challenges due to several factors such as stricter environmental regulations, higher flight taxes, increased interest rates, rising fuel prices, and a tight labor market resulting in increased labor costs. As a result, the company's profitability is under pressure, and they are seeking ways to address this issue. To tackle this challenge, they are looking to conduct an analysis of their database to find ways to increase their occupancy rate, which can help boost the average profit earned per seat.
 
 ## Main Challenges
@@ -18,6 +17,12 @@ The end goal of this task would be to identify opportunities to increase the occ
 
 ## Basic Analysis
 The basic analysis of data provides insights into the number of planes with more than 100 seats, how the number of tickets booked, and the total amount earned changed over time, as well as the average fare for each aircraft with different conditions. These findings will be helpful in developing strategies to optimize occupancy rates and pricing for each aircraft. Table 1 shows the aircraft with more than 100 seats and the actual count of seats.
+
+| Name     | Age | Location    |
+|----------|-----|-------------|
+| John     | 25  | California  |
+| Alice    | 30  | New York    |
+| Michael  | 28  | Texas       |
 
 
 
