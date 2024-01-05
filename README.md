@@ -34,7 +34,27 @@ The basic analysis of data provides insights into the number of planes with more
 </div>
 
 In order to gain a deeper understanding of the trend in ticket bookings and revenue earned through those bookings, we utilized a line chart visualization. Upon analysis of the chart, we observe that the number of tickets booked exhibits a gradual increase from June 22nd to July 7th, followed by a relatively stable pattern from July 8th until August, with a noticeable peak in ticket bookings where the highest number of tickets was booked on a single day. It is important to note that the revenue earned by the company from these bookings is closely tied to the number of tickets booked. Therefore, we can see a similar trend in the total revenue earned by the company throughout the analyzed time period. These findings suggest that further exploration of the factors contributing to the peak in ticket bookings may be beneficial for increasing overall revenue and optimizing operational strategies.
+
+<div align="center">
+
+![Image](https://i.ibb.co/whN1cvF/Image-1.png)
+
+**Figure 1**
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                                                                         
-
-
-![Your Chart Title](https://i.ibb.co/whN1cvF/Image-1.png)
