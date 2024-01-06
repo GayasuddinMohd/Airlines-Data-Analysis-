@@ -78,6 +78,14 @@ Airlines must thoroughly analyze their revenue streams in order to maximize prof
 **Figure 4**
 </div>
 
+The average occupancy per aircraft is another critical metric to consider. Airlines may measure how successfully they fill their seats and discover opportunities to boost occupancy rates by using this metric. Higher occupancy rates can help airlines increase revenue and profitability while lowering operational expenses associated with vacant seats. Pricing strategy, airline schedules, and customer satisfaction are all factors that might influence occupancy rates. The below Figure 5 shows the average booked seats from the total number of seats for each aircraft. The occupancy rate is calculated by dividing the booked seats by the total number of seats.
+
+
+
+
+
+
+
 
 
 
