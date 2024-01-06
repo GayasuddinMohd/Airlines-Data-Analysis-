@@ -98,6 +98,21 @@ The average occupancy per aircraft is another critical metric to consider. Airli
 
 Airlines can assess how much their total yearly turnover could improve by providing all aircraft with a 10% higher occupancy rate to further examine the possible benefits of raising occupancy rates. This research can assist airlines in determining the financial impact of boosting occupancy rates by 10%, which results in a gradual increase. Therefore, airlines should focus more on pricing strategies.
 
+<div align="center">
+
+| aircraft_code | booked_seats | num_seats | occupancy_rate | Inc_occupancy_rate | Inc_Total_Annual_Turnover |
+|---------------|--------------|-----------|----------------|--------------------|---------------------------|
+| 319           | 53.58318098720292 | 116   | 0.46192397402761143 | 0.5081163714303726 | 2976779410.0              |
+| 321           | 88.80923076923077 | 170   | 0.5224072398190045  | 0.574647963800905  | 1801980510.0              |
+| 733           | 80.25546218487395 | 130   | 0.617349709114415   | 0.6790846800258565 | 1569207310.0000002        |
+| 763           | 113.93729372937294 | 222  | 0.5132310528350132  | 0.5645541581185146 | 4808404810.0              |
+| 773           | 264.9258064516129 | 402   | 0.659019419033863   | 0.7249213609372492 | 3774326050.0              |
+| CN1           | 6.004431314623338  | 12    | 0.5003692762186115  | 0.5504062038404727 | 106011180.00000001        |
+| CR2           | 21.48284690220174  | 50    | 0.42965693804403476 | 0.4726226318484382 | 2181036550.0              |
+| SU9           | 56.81211267605634  | 97    | 0.5856918832583128  | 0.644261071584144  | 5625933169.999999         |
+
+**Figure 6**
+</div>
 
 
 
