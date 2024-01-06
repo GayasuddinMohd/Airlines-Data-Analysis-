@@ -114,6 +114,15 @@ Airlines can assess how much their total yearly turnover could improve by provid
 **Figure 6**
 </div>
 
+## Conclusion 
+In summary, analyzing revenue data such as total revenue per year, average revenue per ticket, and average occupancy per aircraft is crucial for airlines aiming to maximize profitability. By assessing these indicators, airlines can identify areas for improvement and adapt their pricing and route plans accordingly. A higher occupancy rate stands as a crucial factor in enhancing profitability since it enables airlines to optimize revenue while minimizing costs related to empty seats. Additionally, airlines should consider revising the pricing strategy for each aircraft. The disparity between lower and higher prices may deter people from purchasing tickets for those specific aircraft. Establishing a reasonable price aligned with the aircraft's condition and facilities is essential, avoiding extremes of overly cheap or expensive prices.
+
+Moreover, increasing occupancy rates should not compromise consumer satisfaction or safety standards. Airlines must strike a balance between the imperative for profit and the importance of delivering high-quality service while upholding stringent safety regulations. By adopting a data-driven approach to revenue analysis and optimization, airlines can potentially achieve long-term success in a highly competitive industry.
+
+
+
+
+
 
 
 
