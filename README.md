@@ -59,8 +59,8 @@ We were able to generate a bar graph to graphically compare the data after compl
 **Figure 3**
 </div>
 
-## Analyzing occupancy rate
-Airlines must thoroughly analyze their revenue streams in order to maximize profitability. The overall income per year and average revenue per tickets for each aircrafts are important metrices to consider. Airlines may use this information to determine which aircraft types and itineraries generate the most income and alter their operations appoprately. This research can also assists
+## Analyzing Occupancy Rate
+Airlines must thoroughly analyze their revenue streams in order to maximize profitability. The overall income per year and average revenue per ticket for each aircraft are important metrics to consider. Airlines may use this information to determine which aircraft types and itineraries generate the most income and alter their operations appropriately. This research can also assist in identifying potential for pricing optimization and allocating resources to more profitable routes. The below Figure 4 shows the total revenue, total tickets, and average revenue made per ticket for each aircraft. The aircraft with the highest total revenue is SU9, and from Figure 3, it can be seen that the price of the business class and economy class is the lowest on this aircraft. This could be the reason that most people bought tickets for this aircraft as it costs less compared to others. The aircraft with the least total revenue is CN1, and the possible reason behind this is that it only offers economy class with a very low price. It might be because of its poor conditions or fewer facilities.
 
 
 
