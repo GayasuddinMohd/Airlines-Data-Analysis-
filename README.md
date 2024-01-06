@@ -59,8 +59,8 @@ We were able to generate a bar graph to graphically compare the data after compl
 **Figure 3**
 </div>
 
-
-
+## Analyzing occupancy rate
+Airlines must thoroughly analyze their revenue streams in order to maximize profitability. The overall income per year and average revenue per tickets for each aircrafts are important metrices to consider. Airlines may use this information to determine which aircraft types and itineraries generate the most income and alter their operations appoprately. This research can also assists
 
 
 
