@@ -1,6 +1,6 @@
 # Airlines Data Analysis Project
 
-## Steps included 
+## Steps Included 
 * Understanding the Business Problem
 * Importing Libraries
 * Database connection to extract data
