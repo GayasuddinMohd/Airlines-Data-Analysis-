@@ -1,5 +1,20 @@
 # Airlines Data Analysis Project
 
+## Steps included 
+* Understanding the Business Problem
+* Importing Libraries
+* Database connection to extract data
+* Exploring tables present in the Database to identify key variables
+* Analyzing the key variables
+* Creating Report with all the results and analysis for the company.
+
+## Skills 
+* Python
+* SQL
+
+## Dataset
+* Download the dataset from [Kaggle](https://www.kaggle.com/datasets/fiazbhk/airline-data-analysis?select=travel.sqlite).
+
 ## Business Problem
 Our company operates a diverse fleet of aircraft ranging from small business jets to medium-sized machines. We have been providing high-quality air transportation services to our clients for several years, and our primary focus is to ensure a safe, comfortable, and convenient journey for our passengers. However, we are currently facing challenges due to several factors such as stricter environmental regulations, higher flight taxes, increased interest rates, rising fuel prices, and a tight labor market resulting in increased labor costs. As a result, the company's profitability is under pressure, and they are seeking ways to address this issue. To tackle this challenge, they are looking to conduct an analysis of their database to find ways to increase their occupancy rate, which can help boost the average profit earned per seat.
 
