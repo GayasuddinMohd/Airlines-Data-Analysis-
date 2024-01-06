@@ -96,6 +96,13 @@ The average occupancy per aircraft is another critical metric to consider. Airli
 **Figure 5**
 </div>
 
+Airlines can assess how much their total yearly turnover could improve by providing all aircraft with a 10% higher occupancy rate to further examine the possible benefits of raising occupancy rates. This research can assist airlines in determining the financial impact of boosting occupancy rates by 10%, which results in a gradual increase. Therefore, airlines should focus more on pricing strategies.
+
+
+
+
+
+
 
 
 
