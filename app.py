@@ -18,7 +18,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Establish connection to the SQLite database
-file_path = 'C:\\Users\\abc\\Desktop\\travel.sqlite'
+file_path = 'travel.sqlite'
 connection = sqlite3.connect(file_path)
 cursor = connection.cursor()
 
